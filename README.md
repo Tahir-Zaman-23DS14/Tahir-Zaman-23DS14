@@ -16,12 +16,9 @@ I am a passionate **Data Science undergraduate** at [QUEST University](https://w
 - **Data Science Dashboard**: Built a student management dashboard with HTML, CSS, and JS charts.
 - **Medical Store Management Project**: Track products, pricing, and inventory using HTML, CSS, JS, PHP & SQL Server.
 
+
 ---
-My Progress
----
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahir-Zaman-23DS14&theme=codeSTACKr" alt="Top Languages">
-</p>
+
 
 My motto:  
 > **"Consistency creates results"**   
